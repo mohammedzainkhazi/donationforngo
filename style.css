@@ -1,0 +1,9 @@
+.donate{
+	display: none;
+	transition: 2s;
+}
+
+.nav{
+	width: auto;
+	cursor: pointer;
+} 
